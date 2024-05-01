@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/crt
 # production
 /build
 
